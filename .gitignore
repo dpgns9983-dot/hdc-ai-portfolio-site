@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+
+*.log
+vite-server.log
+
+desktop-preview.png
+mobile-preview.png
+desktop-v2-preview.png
+mobile-v2-preview.png
+
+.DS_Store
+Thumbs.db
